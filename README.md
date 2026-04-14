@@ -1,4 +1,4 @@
-# IR Fact Retrieval
+# 国际关系事实检索 Skill
 
 <p align="center">
   <strong>面向国际关系具体事件的事实检索型 Codex Skill</strong><br />
@@ -6,18 +6,22 @@
 </p>
 
 <p align="center">
-  <a href="./README.en.md">English</a> ·
-  <a href="./SKILL.md">SKILL.md</a> ·
-  <a href="https://github.com/alchaincyf/darwin-skill">Darwin Skill</a>
+  <a href="./README.en.md">English Version</a> ·
+  <a href="./SKILL.md">查看 SKILL.md</a> ·
+  <a href="https://github.com/alchaincyf/darwin-skill">Darwin Skill 优化器</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
-  <img src="https://img.shields.io/badge/Language-Chinese%20First-0f766e?style=flat-square" alt="Chinese First" />
-  <img src="https://img.shields.io/badge/Use%20Case-IR%20Fact%20Briefs-1d4ed8?style=flat-square" alt="IR Fact Briefs" />
+  <img src="https://img.shields.io/badge/Codex-技能-111827?style=flat-square" alt="Codex 技能" />
+  <img src="https://img.shields.io/badge/语言-中文优先-0f766e?style=flat-square" alt="中文优先" />
+  <img src="https://img.shields.io/badge/用途-国际关系事实底稿-1d4ed8?style=flat-square" alt="国际关系事实底稿" />
   <a href="https://github.com/alchaincyf/darwin-skill">
-    <img src="https://img.shields.io/badge/Optimized%20with-Darwin%20Skill-7c3aed?style=flat-square" alt="Optimized with Darwin Skill" />
+    <img src="https://img.shields.io/badge/迭代优化-Darwin%20Skill-7c3aed?style=flat-square" alt="Darwin Skill 迭代优化" />
   </a>
+</p>
+
+<p align="center">
+  <sub>English readers can use <a href="./README.en.md">README.en.md</a>.</sub>
 </p>
 
 ## 一句话介绍
