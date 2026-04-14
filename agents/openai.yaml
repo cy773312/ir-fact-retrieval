@@ -1,0 +1,4 @@
+interface:
+  display_name: "IR Fact Retrieval"
+  short_description: "中立检索核对并结构化整理国际关系事件事实底稿与关键争议"
+  default_prompt: "Use $ir-fact-retrieval to build a neutral fact base for a specific international relations event or diplomatic issue."
